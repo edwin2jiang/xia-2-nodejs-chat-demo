@@ -9,5 +9,5 @@
 ## 演示视频
 
 
-<video src="./%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4"> </video>
+<video src="https://github.com/xia-2/xia-2-nodejs-chat-demo/blob/main/%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91.mp4?raw=true"> </video>
 
